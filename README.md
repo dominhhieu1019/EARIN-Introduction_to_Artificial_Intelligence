@@ -8,3 +8,6 @@ Input:
 - 𝑤<sub>1</sub>, 𝑤<sub>2</sub> – parameter values.
 
 Output: graph describing the highway system.
+
+## Project 2: Data mining
+Work on the dataset Bike Sharing Demand from Kaggle (https://www.kaggle.com/c/bike-sharing-demand/data)

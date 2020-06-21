@@ -10,4 +10,4 @@ Input:
 Output: graph describing the highway system.
 
 ## Project 2: Data mining
-Work on the dataset Bike Sharing Demand from Kaggle (https://www.kaggle.com/c/bike-sharing-demand/data)
+Work on the dataset **Bike Sharing Demand** from Kaggle (https://www.kaggle.com/c/bike-sharing-demand/data)
